@@ -1,0 +1,20 @@
+IGUI_CN = {
+    IGUI_PlayerText_NothingWritten = "这里什么都没写.",
+    IGUI_PlayerText_DontHaveAnyXP = "我没任何值得记录的经验.",
+    IGUI_PlayerText_DoesntFeelRightToWrite = "我不应该用别人的笔记进行抄写.",
+    IGUI_PlayerText_DoesntFeelRightToRead = "偷窥别人的笔记是不好的！",
+    IGUI_PlayerText_NothingToAddToJournal = "应该没什么要记录的了.",
+    IGUI_PlayerText_AllDoneWithJournal = "搞定！",
+    IGUI_Tooltip_Empty = "一本可以添加技能经验的空白笔记.",
+    IGUI_Tooltip_Start = "持有者为",
+    IGUI_Tooltip_End = "的生活.",
+    IGUI_Tooltip_Recipe = "配方",
+    IGUI_Tooltip_Recipes = "配方表",
+    IGUI_Tooltip_Transcribing = "正在抄写...",
+    IGUI_Tooltip_Learning = "少女加载中...",
+    IGUI_perks_Lightfoot = "灵巧",
+    IGUI_perks_Sneak = "潜行",
+    IGUI_perks_PlantScavenging = "采集",
+    IGUI_Rename = "重新命名",
+    IGUI_JournalXPUsedUp = "字迹已然斑驳... (经验已消耗)"
+}
