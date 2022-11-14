@@ -1,4 +1,4 @@
 Recipe_CN = {
-Recipe_Bind_Journal = "ÖÆ×÷ ¼¼ÄÜÑ§Ï°ĞÄµÃ±Ê¼Ç",
-Recipe_Transcribe_Journal = "¼ÇÂ¼¼¼ÄÜÑ§Ï°ĞÄµÃ",
+    Recipe_Transcribe_Journal = "æŠ„å†™ç»éªŒ",
+    Recipe_Bind_Journal = "åˆ¶ä½œ-æŠ€èƒ½æ¢å¤ç¬”è®°",
 }
